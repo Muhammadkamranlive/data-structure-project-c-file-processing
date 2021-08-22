@@ -1,0 +1,5 @@
+kamran		multiplex		234
+kamran		kamiboss		1222
+kamran		mu		456
+
+
